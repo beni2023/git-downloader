@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [Readest_0.10.6_x64-setup](./Readest_0.10.6_x64-setup)
 
 ---
 
