@@ -7,6 +7,7 @@
 - [WhiteDNS-1.2.0-arm64-v8a](./WhiteDNS-1.2.0-arm64-v8a)
 - [incy-windows-setup](./incy-windows-setup)
 - [main](./main)
+- [v2rayNG_2.1.7-fdroid_universal](./v2rayNG_2.1.7-fdroid_universal)
 
 ---
 
